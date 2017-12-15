@@ -1,0 +1,26 @@
+---------------------------------------------Git---------------------------------------------------------------
+
+Version control
+Collaboration
+
+Git    -> version control software
+Github -> Webservice with git in background
+
+$ git clone <url>
+$ git status
+$ git commit -a -m
+$ git log
+$ git remote -v
+$ git push <remote> <branch> //push origin master
+$ git pull <remote> <branch> 
+$ git init
+$ git add <file> // adding files to staging for committing to cloned repo
+$ git remote add <name> <url> 
+$ git branch
+$ git checkout <branch>
+
+github pages
+gh-pages
+
+
+feature/v2-apis/businessentities-odata-implementation
